@@ -3,7 +3,7 @@ const TEMPLATE_CONFIG = [
   {
     id: '0001',
     title: '亲爱的, 早上好',
-    desc: `
+    desc: `覃楚
       **{{date.DATA}}**
       
       下个休息日：{{holidaytts.DATA}}
